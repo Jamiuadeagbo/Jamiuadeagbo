@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jamiuadeagbo
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m a starter
-- 💞️ I’m looking to with peers that can help me actualize my ambition of becoming a software engineer
+- 💞️ I’m looking forward to work with peers that can help me actualize my ambition of becoming a software engineer
 - 📫 How to reach me on jamiuadeagbo@gmail.com
 
 <!---
